@@ -1,2 +1,2 @@
 # Clarusway-Paths
-# https://github.com/GORKEM1986/Clarusway-Paths/deployments/activity_log?environment=github-pages
+# https://gorkem1986.github.io/Clarusway-Paths/
